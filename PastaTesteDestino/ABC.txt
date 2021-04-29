@@ -1,1 +1,1 @@
-abcde
+Este arquivo será excluído, e substituído pelo aquivo na pasta Origem.
