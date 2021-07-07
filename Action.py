@@ -12,7 +12,7 @@ Como mover, copiar e apagar arquivos com Python - Aula 32 = https://www.youtube.
 Conseguir mover arquivos, substituindo-os através da referência do caminho das pastas.
 
 """
-print('')
+
 caminhoOrigem  = r'<caminho das pastas>'  # Arquivo que será copiado
 caminhoDestino = r'<caminho das pastas>' # Arquivo que será substituído
 
